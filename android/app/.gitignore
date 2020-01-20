@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+/build
+
+/build/
+=======
+*.iml
+.gradle
+/local.properties
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+/.gradle/
+/.idea/
+>>>>>>> dbdacdc4d20da3a1753971fe662b555cd25b01e2
